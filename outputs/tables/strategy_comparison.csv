@@ -1,0 +1,3 @@
+strategy,cameras_installed,installation_cost,expected_vandalism_loss,total_expected_cost,cost_gap_vs_model
+Model-based,1000,2000000,0.0,2000000.0,0.0
+Outdoor-only human rule,497,994000,2618222.806018872,3612222.806018872,1612222.8060188722

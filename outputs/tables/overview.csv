@@ -1,0 +1,6 @@
+metric,value
+總樣本數,3000.0
+Broken = 0 筆數,1845.0
+Broken = 0 比例,0.615
+Broken = 1 筆數,1155.0
+Broken = 1 比例,0.385

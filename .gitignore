@@ -1,0 +1,9 @@
+__pycache__/
+.ipynb_checkpoints/
+executed_notebook.ipynb
+comparison.py
+comparison_script.py
+final_eval.py
+inspect_data.py
+task.py
+pdf_findings.txt

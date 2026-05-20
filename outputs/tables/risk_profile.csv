@@ -1,0 +1,4 @@
+risk_segment,machine_count,avg_probability,avg_distance,indoor_rate,club_activity_share
+Low,0,,,,
+Medium,0,,,,
+High,1000,0.4984121014450264,252.935,0.503,0.20015616438356165
